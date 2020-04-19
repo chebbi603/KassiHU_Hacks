@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "745713706289",
+    "firebase_url": "https://hackthevirus-4830f.firebaseio.com",
+    "project_id": "hackthevirus-4830f",
+    "storage_bucket": "hackthevirus-4830f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745713706289:android:67c9a0db9a43e158863c10",
+        "android_client_info": {
+          "package_name": "com.javaislove.mycoronaguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745713706289-066cgq2j47i5tnpe09f6joureonoh7me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javaislove.mycoronaguide",
+            "certificate_hash": "55279da01b63fe2ff5a8427c4ff569e01109f7d7"
+          }
+        },
+        {
+          "client_id": "745713706289-lkju8h2nun1d83qacrka71lhpgvm0r15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javaislove.mycoronaguide",
+            "certificate_hash": "423f3f66738eb96b22e4ca90e8c210cbcd686b80"
+          }
+        },
+        {
+          "client_id": "745713706289-kv6ls9g83iq721ahf4t2jguon8k4fjg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javaislove.mycoronaguide",
+            "certificate_hash": "b6c1d4416987a2dd7f621ad550eb01802a74c8e3"
+          }
+        },
+        {
+          "client_id": "745713706289-o5703td50idvssl0r9i416vj8ffednfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZx6V0uWX1vrCUXtx_t4nPcS5SPLnsdDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745713706289-o5703td50idvssl0r9i416vj8ffednfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745713706289:android:c6728ea9ef7ec253863c10",
+        "android_client_info": {
+          "package_name": "tn.javaislove.messagebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745713706289-o5703td50idvssl0r9i416vj8ffednfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZx6V0uWX1vrCUXtx_t4nPcS5SPLnsdDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745713706289-o5703td50idvssl0r9i416vj8ffednfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
